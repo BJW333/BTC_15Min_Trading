@@ -319,6 +319,4 @@ This is a recommendation tool, not financial advice. Event contracts carry risk 
 
 ## Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Bigg_O7)
-
 GitHub: [BJW333](https://github.com/BJW333)
