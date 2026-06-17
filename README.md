@@ -1,3 +1,7 @@
+SADLY THIS WAS JUST A IDEA AND DOESNT HAVE ENOUGH WIN RATE TO BE WORTH IT BUT EVENTUALLY COULD BE 
+
+CURRENTLY DOESNT REALLY WORK
+
 # BTC 15-Minute Prediction Market Signal Bot
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
